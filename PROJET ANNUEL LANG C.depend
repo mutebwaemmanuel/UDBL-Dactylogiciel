@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1717843764 source:c:\users\king bmv\desktop\projet annuel c\projet annuel lang c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1718459990 source:c:\users\king bmv\desktop\final\projet annuel c\projet annuel lang c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

@@ -1,0 +1,10 @@
+monsieur
+madame
+maman
+salle
+moment
+voiturecourant
+maison
+femme
+homme
+fillette
